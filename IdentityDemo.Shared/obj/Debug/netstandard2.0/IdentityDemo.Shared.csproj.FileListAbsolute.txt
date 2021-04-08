@@ -1,0 +1,9 @@
+D:\pragrammalar\dasturlar\c#\web api\IdentityDemo\IdentityDemo.Shared\bin\Debug\netstandard2.0\IdentityDemo.Shared.deps.json
+D:\pragrammalar\dasturlar\c#\web api\IdentityDemo\IdentityDemo.Shared\bin\Debug\netstandard2.0\IdentityDemo.Shared.dll
+D:\pragrammalar\dasturlar\c#\web api\IdentityDemo\IdentityDemo.Shared\bin\Debug\netstandard2.0\IdentityDemo.Shared.pdb
+D:\pragrammalar\dasturlar\c#\web api\IdentityDemo\IdentityDemo.Shared\obj\Debug\netstandard2.0\IdentityDemo.Shared.csprojAssemblyReference.cache
+D:\pragrammalar\dasturlar\c#\web api\IdentityDemo\IdentityDemo.Shared\obj\Debug\netstandard2.0\IdentityDemo.Shared.AssemblyInfoInputs.cache
+D:\pragrammalar\dasturlar\c#\web api\IdentityDemo\IdentityDemo.Shared\obj\Debug\netstandard2.0\IdentityDemo.Shared.AssemblyInfo.cs
+D:\pragrammalar\dasturlar\c#\web api\IdentityDemo\IdentityDemo.Shared\obj\Debug\netstandard2.0\IdentityDemo.Shared.csproj.CoreCompileInputs.cache
+D:\pragrammalar\dasturlar\c#\web api\IdentityDemo\IdentityDemo.Shared\obj\Debug\netstandard2.0\IdentityDemo.Shared.dll
+D:\pragrammalar\dasturlar\c#\web api\IdentityDemo\IdentityDemo.Shared\obj\Debug\netstandard2.0\IdentityDemo.Shared.pdb
